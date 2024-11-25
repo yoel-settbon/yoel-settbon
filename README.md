@@ -3,6 +3,10 @@
 Bienvenue sur mon profil GitHub ! Je suis étudiant en informatique en recherche d'alternance. 
 Ce dépôt présente mes projets et mon évolution en tant que développeur.
 
+## 🏆 Mes Contributions GitHub
+
+![GitHub Contribution Graph](https://github.com/yoel-settbon/github-profile-summary-cards/blob/master/profile-summary-card-output/default/0-profile-details.svg)
+
 ## 📊 Mes Contributions GitHub
 
 ![GitHub Contributions](https://github-readme-stats.vercel.app/api/top-langs/?username=yoel-settbon&hide=python,html,css&layout=compact)
