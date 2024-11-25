@@ -1,6 +1,7 @@
 # Yoël Settbon 👋
 
-Bienvenue sur mon profil GitHub ! Je suis étudiant en informatique avec des compétences en plusieurs domaines techniques. Ce dépôt présente mes projets et mon évolution en tant que développeur.
+Bienvenue sur mon profil GitHub ! Je suis étudiant en informatique en recherche d'alternance. 
+Ce dépôt présente mes projets et mon évolution en tant que développeur.
 
 ## 📊 Mes Contributions GitHub
 
