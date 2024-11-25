@@ -2,6 +2,10 @@
 
 Bienvenue sur mon profil GitHub ! Je suis étudiant en informatique avec des compétences en plusieurs domaines techniques. Ce dépôt présente mes projets et mon évolution en tant que développeur.
 
+## 📊 Mes Contributions GitHub
+
+![GitHub Contributions](https://github-readme-stats.vercel.app/api/top-langs/?username=yoel-settbon&hide=python,html,css&layout=compact)
+
 ## 💻 Compétences
 
 ### GitHub
