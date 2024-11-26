@@ -23,7 +23,3 @@
 <p align="left">📧 Email : yoel.settbon@laplateforme.io</p>
 
 ###
-
-<img src="https://raw.githubusercontent.com/yoel-settbon/yoel-settbon/output/snake.svg" alt="Snake animation" />
-
-###
