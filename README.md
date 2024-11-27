@@ -24,3 +24,8 @@ I am currently an IT student at La Plateforme_, a school based in Marseille spec
 <p align="left">📧 Email : yoel.settbon@laplateforme.io</p>
 
 ###
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=yoel-settbon&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=yoel-settbon&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=yoel-settbon&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
