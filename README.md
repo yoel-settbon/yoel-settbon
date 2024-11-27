@@ -1,20 +1,22 @@
 <img src="https://github.com/yoel-settbon/yoel-settbon/blob/main/Yo%C3%ABl%20Settbon-1.png">
 
+# Hey there ! 👋
+
+# 💫 About Me
+I am currently an IT student at La Plateforme_, a school based in Marseille specialized in digital careers. Passionate about creating and learning about websites and interactive applications, I am developing my skills in HTML, CSS, Python, and soon in modern frameworks. I am motivated, curious, and always ready to take on new challenges. 
+🎯 My goal is to become a versatile developer capable of contributing to ambitious projects in collaborative environments.
+🚀 I am currently looking for an apprenticeship to further develop my skills and gain professional experience in web development.
+
+
 ###
 
-<h2 align="left">I code with</h2>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-</div>
+## 🛠 Skills
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 ###
 
