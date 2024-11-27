@@ -1,7 +1,5 @@
-![Image](https://github.com/yoel-settbon/yoel-settbon/blob/main/recherche-3-800x500.png)
+![Image](https://github.com/yoel-settbon/yoel-settbon/blob/main/Yo%C3%ABl%20Settbon.pdf)
 # Yoël Settbon
-
-<p align="left">👋 My name is Yoël and I'm an IT student looking for a work - study contract</p>
 
 ###
 
@@ -24,5 +22,3 @@
 <p align="left">📧 Email : yoel.settbon@laplateforme.io</p>
 
 ###
-
-<img src="https://ocode.ma/wp-content/uploads/2022/01/mp4.gif">
