@@ -1,7 +1,5 @@
 <img src="https://github.com/yoel-settbon/yoel-settbon/blob/main/Yo%C3%ABl%20Settbon-1.png">
 
-# Yoël Settbon
-
 ###
 
 <h2 align="left">I code with</h2>
