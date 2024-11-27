@@ -11,7 +11,7 @@ I am currently an IT student at La Plateforme_, a school based in Marseille spec
 🚀 I am currently looking for an apprenticeship to further develop my skills and gain professional experience in web development.
 #
 
-## 🛠 Skills
+# 🛠 Skills
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -21,8 +21,8 @@ I am currently an IT student at La Plateforme_, a school based in Marseille spec
 
 ###
 
-# Contact
-📧 Email : <a href="https://mail.google.com/mail/u/0/#inbox?compose=DmwnWrRspppZMzrswxSXDwBwfDQZSXTMCrPDcCcNggmLLpQJrfgwnxbTlrZHnFVHPCGClJNmKGPL"> yoel.settbon@laplateforme.io <a/>
+# 📧 Contact
+Email : <a href="https://mail.google.com/mail/u/0/#inbox?compose=DmwnWrRspppZMzrswxSXDwBwfDQZSXTMCrPDcCcNggmLLpQJrfgwnxbTlrZHnFVHPCGClJNmKGPL"> yoel.settbon@laplateforme.io <a/>
 
 ###
 
