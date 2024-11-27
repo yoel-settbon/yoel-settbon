@@ -1,6 +1,7 @@
+# Hey there ! 👋
+
 <img src="https://github.com/yoel-settbon/yoel-settbon/blob/main/Yo%C3%ABl%20Settbon-1.png">
 
-# Hey there ! 👋
 
 # 💫 About Me
 I am currently an IT student at La Plateforme_, a school based in Marseille specialized in digital careers. Passionate about creating and learning about websites and interactive applications, I am developing my skills in HTML, CSS, Python, and soon in modern frameworks. I am motivated, curious, and always ready to take on new challenges. 
