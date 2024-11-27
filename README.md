@@ -24,4 +24,4 @@
 
 ###
 
-<img src="https://ocode.ma/wp-content/uploads/2022/01/mp4.gif" style="width:50%; height:400px">
+<img src="https://ocode.ma/wp-content/uploads/2022/01/mp4.gif" style="width:50%; height:300px">
