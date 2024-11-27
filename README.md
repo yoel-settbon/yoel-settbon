@@ -21,6 +21,7 @@ I am currently an IT student at La Plateforme_, a school based in Marseille spec
 
 ###
 
+# Contact
 📧 Email : <a href="https://mail.google.com/mail/u/0/#inbox?compose=DmwnWrRspppZMzrswxSXDwBwfDQZSXTMCrPDcCcNggmLLpQJrfgwnxbTlrZHnFVHPCGClJNmKGPL"> yoel.settbon@laplateforme.io <a/>
 
 ###
