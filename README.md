@@ -1,3 +1,4 @@
+![Image](https://github.com/yoel-settbon/yoel-settbon/blob/main/recherche-3-800x500.png)
 # Yoël Settbon
 
 <p align="left">👋 My name is Yoël and I'm an IT student looking for a work - study contract</p>
