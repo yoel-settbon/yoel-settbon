@@ -9,9 +9,7 @@ I am currently an IT student at La Plateforme_, a school based in Marseille spec
 🎯 My goal is to become a versatile developer capable of contributing to ambitious projects in collaborative environments.
 #
 🚀 I am currently looking for an apprenticeship to further develop my skills and gain professional experience in web development.
-
-
-###
+#
 
 ## 🛠 Skills
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
