@@ -1,4 +1,4 @@
-<img src="https://github.com/yoel-settbon/yoel-settbon/blob/main/Yo%C3%ABl%20Settbon-1.png" style="width: 100%; height: 300px;">
+<img src="https://github.com/yoel-settbon/yoel-settbon/blob/main/Yo%C3%ABl%20Settbon-1.png">
 
 # Yoël Settbon
 
